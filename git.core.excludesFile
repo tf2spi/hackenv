@@ -1,0 +1,8 @@
+# IDE pain
+.vs/
+.idea/
+
+# VIM pain
+.*.swp
+
+#
